@@ -1,0 +1,155 @@
+Starter nu med masterside i Nicepage
+
+Det er efter min mening det helt rigtige sted at starte. Den masterside kommer til at spare dig mange timers arbejde senere.
+
+Jeg ville bygge den i denne rækkefølge:
+
+1. Globalt
+Logo
+Favicon
+Farvepalette
+Skrifttyper
+Standardknapper
+Standardikoner
+2. Header
+
+Kun én version.
+
+Logo
+Navigation
+Sprogvælger (hvis den skal være der)
+Request Quote-knap
+
+Test den på:
+
+Desktop
+Tablet
+Mobil
+3. Hero-sektion
+
+Denne bliver skabelon for alle sider.
+
+Indeholder:
+
+H1
+Kort introduktion
+Primær CTA
+Sekundær CTA
+Hero-billede
+4. Problem-boks
+
+En genbrugelig komponent.
+
+Eksempel:
+
+Do any of these challenges sound familiar?
+
+Problem 1
+Problem 2
+Problem 3
+5. Løsningssektion
+
+Fast layout.
+
+Venstre:
+
+tekst
+
+Højre:
+
+billede
+6. Servicekort
+
+4 ens bokse.
+
+Translation
+
+Content
+
+Software & AI
+
+Knowledge
+
+7. CTA
+
+Stor boks.
+
+Kontakt
+
+Request Quote
+
+Download
+
+8. FAQ
+
+Accordion.
+
+9. Related Articles
+
+3 kort.
+
+10. Footer
+
+Én version.
+
+Lav også et komponentbibliotek
+
+Læg disse sektioner under hinanden på mastersiden, adskilt af en tydelig overskrift, så de er nemme at kopiere:
+
+HEADER
+
+HERO
+
+PROBLEM BOX
+
+TEXT + IMAGE
+
+IMAGE + TEXT
+
+4 SERVICE CARDS
+
+3 ARTICLE CARDS
+
+FAQ
+
+DOWNLOAD BOX
+
+CONTACT BOX
+
+CTA
+
+FOOTER
+
+Når du opretter en ny side, kopierer du blot de relevante sektioner.
+
+Navngiv sektionerne
+
+Hvis Nicepage tillader det, så giv dem faste navne:
+
+Hero – Standard
+Hero – Small
+Problem Box
+CTA – Orange
+CTA – Blue
+Footer – Standard
+Header – Standard
+
+Det gør det meget lettere at finde dem igen.
+
+Hvad vi gør bagefter
+
+Når mastersiden er færdig, foreslår jeg, at vi ikke går direkte videre med tekst.
+
+I stedet gennemgår vi mastersiden én gang med fokus på:
+
+visuel balance
+afstande
+mobilvisning
+typografi
+CTA'er
+farver
+genbrugelighed
+
+Først derefter bygger vi forsiden oven på den. Så bliver forsiden ikke et eksperiment, men en sammensætning af komponenter, som allerede er gennemarbejdede.
+
+Det er præcis sådan mange professionelle designteams arbejder: først et solidt designsystem, derefter siderne. Det gør resten af projektet både hurtigere og mere ensartet.
