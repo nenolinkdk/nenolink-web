@@ -1,0 +1,37 @@
+Det tror jeg bliver et godt fundament. Nicepage egner sig faktisk fint til denne måde at arbejde på, hvis du er konsekvent med standarderne.
+
+Jeg ville oprette en master-side i Nicepage, som du aldrig publicerer. Den fungerer som dit designbibliotek med alle de elementer, du kopierer fra:
+
+Header
+Footer
+Hero-sektion
+Problem-boks
+Løsningssektion
+CTA
+FAQ
+Artikelkort
+Kontaktblok
+Downloadblok
+AI-badge
+Ikonsæt
+Standardknapper
+Standardtabeller
+
+Så kopierer du sektionerne ind på nye sider i stedet for at designe dem igen.
+
+Jeg ville også lave en "Style Guide"-side
+
+En skjult side, fx Design System, med:
+
+Alle farver (HEX-koder)
+Skriftstørrelser
+Knaptyper
+Marginer
+Billedstørrelser
+Ikonstørrelser
+AI-badge
+Standardafstande
+Standardoverskrifter
+Eksempler på lister og tabeller
+
+Den bliver dit opslagsværk under hele projektet.
